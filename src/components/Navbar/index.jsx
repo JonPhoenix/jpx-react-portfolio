@@ -11,21 +11,21 @@ function Navbar() {
             <nav className="col">
               <ul className="nav justify-content-start transition">
                 <li className="nav-item">
-                  <a className="nav-link" href="/">
-                    Jon Phoenix
+                  <a className="nav-link link-style" href="/">
+                    <strong>Jon Phoenix</strong>
                     <sup>
                       <span class="note">®</span>
                     </sup>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/work">
+                  <a className="nav-link link-style" href="/work">
                     Work
                   </a>
                 </li>
                 <li className="nav-item">
                   <a
-                    className="nav-link"
+                    className="nav-link link-style"
                     href="./assets/doc/resume.pdf"
                     download=""
                   >
