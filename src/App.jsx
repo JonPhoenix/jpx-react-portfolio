@@ -1,14 +1,13 @@
 // import React
 import React from "react";
 // import React-router-dom / BrowseRouter as Router / Route / Switch
-
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 // import Components
-// Navbar
-// Footer
-
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 // import Pages
-// import HomePage
-// import ProjectsPage
+import HomePage from "./pages/HomePage";
+import WorkPage from "./pages/WorkPage";
 
 // import CSS style
 import "./App.css";
@@ -16,22 +15,22 @@ import "./App.css";
 // App navigation with React Router
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div>
+        <Router>
+          <Navbar />
+          <Switch>
+            <Route exact path={"/"}>
+              <HomePage />
+            </Route>
+            <Route exact path={"/work"}>
+              <WorkPage />
+            </Route>
+          </Switch>
+          <Footer />
+        </Router>
+      </div>
+    </>
   );
 }
 
