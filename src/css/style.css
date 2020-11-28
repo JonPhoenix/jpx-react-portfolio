@@ -2,6 +2,7 @@
   padding: 15px;
 }
 
+/* Navbar & Footer */
 .note {
   font-size: 0.8rem;
 }
@@ -20,7 +21,11 @@
 }
 
 .link-icon {
-  margin: 10px;
+  margin: 15px;
+}
+
+.copyright {
+  font-size: 0.9em;
 }
 
 footer {
@@ -29,4 +34,27 @@ footer {
 
 footer p {
   margin-top: 20px;
+}
+
+/* Home Page */
+
+.title {
+  font-size: 28px;
+}
+
+.jon-photo {
+  width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  clip-path: circle(110px at center);
+}
+
+.section {
+  padding: 50px 0px;
+}
+
+.paragraph {
+  margin: 0 auto;
+  max-width: 460px;
 }
