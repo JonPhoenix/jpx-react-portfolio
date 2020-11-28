@@ -50,7 +50,7 @@ function Footer() {
                 </svg>
               </a>
             ))}
-            <p>
+            <p className="copyright">
               ©{" "}
               <a
                 className="link-jon"
