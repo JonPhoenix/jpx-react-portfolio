@@ -31,7 +31,7 @@ function Footer() {
     <>
       <div>
         <div className="container">
-          <footer className="col text-center footerPadding">
+          <footer className="col text-center">
             {links.map((site, index) => (
               <a
                 key={index}
