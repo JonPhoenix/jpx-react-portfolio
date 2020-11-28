@@ -42,7 +42,7 @@ footer p {
   font-size: 28px;
 }
 
-.jon-photo {
+.about-photo {
   width: 220px;
   margin-left: auto;
   margin-right: auto;
@@ -50,11 +50,15 @@ footer p {
   clip-path: circle(110px at center);
 }
 
-.section {
-  padding: 50px 0px;
+.paragraph {
+  margin: 25px 0;
 }
 
-.paragraph {
+.section {
+  padding: 25px 0px;
+}
+
+.about {
   margin: 0 auto;
   max-width: 460px;
 }
