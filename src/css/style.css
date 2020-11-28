@@ -11,6 +11,22 @@
   color: black;
 }
 
-.link-style:hover {
-  color: rgb(0, 195, 255);
+.link-jon {
+  color: black;
+}
+
+.link-style:hover .link-jon:hover {
+  color: rgb(0, 251, 255);
+}
+
+.link-icon {
+  margin: 10px;
+}
+
+footer {
+  padding: 42px 0px;
+}
+
+footer p {
+  margin-top: 20px;
 }
