@@ -34,7 +34,7 @@ function HomePage() {
                   />
                 </figure>
               </div>
-              <p className="title col-lg-12 text-center">about me</p>
+              <p className="title col-lg-12 text-center">Portfolio</p>
               <p className="paragraph">
                 Welcome to Jon Phoenix's online portfolio, a selection of web
                 applications featuring JavaScript, HTML, CSS, Databases, React
