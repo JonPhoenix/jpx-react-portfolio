@@ -1,4 +1,5 @@
 import React from "react";
+
 // import css styles
 import "../../css/style.css";
 
@@ -9,7 +10,7 @@ function HomePage() {
         <div className="row">
           <section className="col-12 text-center">
             <p className="title">Hello</p>
-            <p>I am Jon Phoenix</p>
+            <p className="tagline">I am Jon Phoenix</p>
           </section>
         </div>
       </div>
