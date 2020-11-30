@@ -7,6 +7,14 @@ import "../../css/style.css";
 function WorkPage() {
   const projectCollection = [
     {
+      id: "MVC-5/5sherpas",
+      title: "5 Sherpas",
+      description:
+        "The 5 Sherpas app generates great suggestions on constructive activities based on your goals for personal improvement.",
+      imageUrl: "../assets/img/5sherpas-preview.jpg",
+      appUrl: "https://www.5sherpas.com/",
+    },
+    {
       id: "MVC-5/breakaway",
       title: "Breakaway",
       description:
@@ -23,18 +31,34 @@ function WorkPage() {
       appUrl: "https://calebkirkish.github.io/discover-serenity/",
     },
     {
+      id: "JonPhoenix/jpx-google-books-search",
+      title: "Google Book Search",
+      description:
+        "This app allows users to search for their books of interest via the Google Books API and save them in a visual collection for future purchase.",
+      imageUrl: "../assets/img/google-book-search-preview.jpg",
+      appUrl: "https://jpx-google-books-search.herokuapp.com/",
+    },
+    {
       id: "JonPhoenix/thunder-burger-app",
       title: "Thunder Burger",
       description:
-        "Thunder Burger is a restaurant app where burger lovers can order their favorite burgers and devour them as fast as one click!",
+        "Thunder Burger is a restaurant app where burger lovers can order their favorite burger creations and devour them as fast as one click!",
       imageUrl: "../assets/img/thunder-burger-preview.jpg",
       appUrl: "https://thunder-burger-app.herokuapp.com/",
+    },
+    {
+      id: "JonPhoenix/express-note-taker",
+      title: "Express Note Taker",
+      description:
+        "The Express Note Taker assists users to keep track of important information and tasks to be completed creating and saving notes.",
+      imageUrl: "../assets/img/express-note-taker-preview.jpg",
+      appUrl: "https://jpx-express-note-taker.herokuapp.com/",
     },
     {
       id: "JonPhoenix/the-davinci-coder",
       title: "Da Vinci Coder",
       description:
-        "Thunder Burger is a restaurant app where burger lovers can order their favorite burgers and devour them as fast as one click!",
+        "This app generates a password based on user choices. The DaVinci Coder helps users to protect the access to their sensitive data.",
       imageUrl: "../assets/img/davinci-coder-preview.jpg",
       appUrl: "https://jonphoenix.github.io/the-davinci-coder/",
     },

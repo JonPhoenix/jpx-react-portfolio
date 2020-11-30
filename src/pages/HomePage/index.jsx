@@ -6,7 +6,7 @@ import "../../css/style.css";
 function HomePage() {
   return (
     <>
-      <div className="container">
+      <div className="main-container">
         <div className="row">
           <section className="col-12 text-center">
             <p className="title">Hello</p>
