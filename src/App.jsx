@@ -9,9 +9,6 @@ import Footer from "./components/Footer";
 import HomePage from "./pages/HomePage";
 import WorkPage from "./pages/WorkPage";
 
-// import CSS style
-import "./App.css";
-
 // App navigation with React Router
 function App() {
   return (

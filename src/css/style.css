@@ -1,5 +1,7 @@
 html body {
   background-color: rgb(223, 216, 214);
+  font-family: Nunito;
+  font-weight: 500;
 }
 
 .main-container {
