@@ -11,38 +11,57 @@ function HomePage() {
           <section className="col-12 text-center">
             <p className="title">Hello</p>
             <p className="tagline">I am Jon Phoenix</p>
+            <p className="about paragraph">
+              A multicultural{" "}
+              <strong>front-end web developer and graphic designer</strong> with
+              a strong background in <strong>branding</strong>, based in{" "}
+              <strong>Seattle, WA</strong>. I see everything through the lens of
+              possibilities, progress, challenges and solutions. I am constantly
+              looking for learning new skills, experimenting with new ideas, and
+              delivering excellent design execution.
+            </p>
           </section>
         </div>
       </div>
-      <div className="container">
-        <div className="row section">
-          <section className="col-lg-12 text-center">
-            <article className="about">
-              <div className="row">
-                <figure className="col-lg-6">
-                  <img
-                    src="./assets/img/jon-photo.jpg"
-                    className="about-photo"
-                    alt="Jon Phoenix"
-                  />
-                </figure>
-                <figure className="col-lg-6">
-                  <img
-                    src="./assets/img/rainier_photo.jpg"
-                    className="about-photo"
-                    alt="Seattle"
-                  />
-                </figure>
-              </div>
-              <p className="title col-lg-12 text-center">Portfolio</p>
-              <p className="paragraph">
-                Welcome to Jon Phoenix's online portfolio, a selection of web
-                applications featuring JavaScript, HTML, CSS, Databases, React
-                and responsive UI design across viewports.
-              </p>
-            </article>
-          </section>
+      <div className="col-12 text-center">
+        <div>
+          <figure>
+            <img
+              src="./assets/img/jon-photo.jpg"
+              className="about-photo"
+              alt="Jon Phoenix"
+            />
+          </figure>
+          <figure>
+            <img
+              src="./assets/img/rainier_photo.jpg"
+              className="about-photo"
+              alt="Seattle"
+            />
+          </figure>
         </div>
+      </div>
+      <div className="row">
+        <section className="col-12 text-center">
+          <p className="title">Portfolio</p>
+          <p className="about paragraph">
+            A selection of web applications showcasing the broad palette of{" "}
+            <strong>
+              full-stack web development technologies, and UI/UX skills
+            </strong>{" "}
+            that define my process. Proudly featuring{" "}
+            <strong>"5 Sherpas", "Breakaway", and "Discover Serenity"</strong>,
+            the remarkably creative result of a team collaboration as a member
+            of{" "}
+            <a className="link-jon" href="https://github.com/MVC-5">
+              <strong>MVC-5</strong>
+            </a>
+            , a group of full-stack web developers. This portfolio features{" "}
+            <strong>JavaScript</strong>, HTML, CSS, SQL / NoSQL Databases,{" "}
+            <strong>MERN: Mongo, Express, Node, React</strong>, and polished UI
+            interfaces.
+          </p>
+        </section>
       </div>
     </>
   );

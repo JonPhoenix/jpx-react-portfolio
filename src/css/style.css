@@ -5,7 +5,7 @@ html body {
 }
 
 .main-container {
-  padding: 50px 0;
+  padding: 25px 0;
 }
 
 .container {
@@ -58,14 +58,14 @@ footer p {
 
 .about-photo {
   width: 220px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   display: block;
   clip-path: circle(110px at center);
 }
 
 .paragraph {
   margin: 40px 0;
+  text-align: justify;
 }
 
 .section {
@@ -75,6 +75,7 @@ footer p {
 .about {
   margin: 0 auto;
   max-width: 460px;
+  padding: 0 25px;
 }
 
 /* Tiles */
