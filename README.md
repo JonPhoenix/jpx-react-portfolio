@@ -18,7 +18,7 @@
 
 A selection of web applications showcasing the broad palette of **full-stack web development technologies, and UI/UX skills** that define my process. Proudly featuring **"5 Sherpas", "Breakaway", and "Discover Serenity"**, the remarkably creative result of a team collaboration as a member of **MVC-5**, a group of full-stack web developers. This portfolio features relevant technologies such as **JavaScript**, HTML, CSS, SQL / NoSQL Databases, **MERN: Mongo, Express, Node, React,** and polished UI interfaces.
 
-Every featured project presents a brief description, and functional buttons to launch the live application and to see the code repository. The navigation bar features a link to download a copy of my **Resume** and the footer includes links to my main internet handles on Github, LinkedIn, my Design Portfolio and a link to contact me by email. This updated portfolio has been created with **React** and deployed from **Heroku**.
+Every featured project presents a brief description, and functional buttons to launch the live application and to see the code repository. The navigation bar features a link to download a copy of my **Resume** and the footer includes links to my main internet handles on Github, LinkedIn, my Design Portfolio and a link to contact me by email. This updated portfolio has been created with **React** and deployed using **Heroku**.
 
 Launch the [**Portfolio here.**](https://jpx-react-portfolio.herokuapp.com/)
 
@@ -26,9 +26,9 @@ Launch the [**Portfolio here.**](https://jpx-react-portfolio.herokuapp.com/)
 
 ---
 
-- As an Full Stack Web Developer and a member of the dev community,
+- As an **Full Stack Web Developer** and a member of the dev community,
 - I want to have an application created with the latest technologies to feature a collection of the best projects I have developed so far
-- So that I can also showcase my professional value to both potential employers and clients.
+- So that I can also showcase my professional value in a competitive way to both, potential employers and clients.
 
 ---
 
@@ -44,16 +44,18 @@ My **React Portfolio** is deployed online, no special installation is required o
 - A brief description of the featured projects as a member of [**MVC-5**](https://github.com/MVC-5)
 - Brief description of the relevant technologies used on projects
 - A footer featuring links to my Github, LinkedIn, Website, and contact Email
+- "Work" page featuring 9 projects with a preview image and a description
+- Every project presents buttons to launch the app and to see the code repository
 - React application built using React Router and Components
 - Mobile first responsive application across devices
 
 ## Application Preview
 
-![jpx-react-portfolio-01]()
+![jpx-react-portfolio-01](demo/jpx-react-portfolio-01.png)
 
-![jpx-react-portfolio-01]()
+![jpx-react-portfolio-02](demo/jpx-react-portfolio-02.png)
 
-![jpx-react-portfolio-01]()
+![jpx-react-portfolio-03](demo/jpx-react-portfolio-03.png)
 
 ## Technology and Framework
 
