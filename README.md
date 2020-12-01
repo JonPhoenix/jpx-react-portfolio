@@ -1,99 +1,89 @@
+![License Badge](https://img.shields.io/badge/License-MIT-0298c3)
+
 # jpx-react-portfolio
 
-# Unit 20 React Homework: React Portfolio
+## Table of Contents
 
-Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
+- [Project description](#project-description)
+- [User story](#user-story)
+- [Installation](#installation)
+- [Features](#features)
+- [Application preview](#application-preview)
+- [Technology](#technology-and-framework)
+- [Contributing](#contributing)
+- [Questions](#questions)
+- [License](#license)
 
-If you are opting out of career services, this is _still a required assignment_. Part of being a web developer means being a part of a community. Having a place to share your projects is _necessary_ if you're applying for jobs, but is still _critical_ on your journey as a developer.
+## Project Description
 
-## Requirements
+A selection of web applications showcasing the broad palette of **full-stack web development technologies, and UI/UX skills** that define my process. Proudly featuring **"5 Sherpas", "Breakaway", and "Discover Serenity"**, the remarkably creative result of a team collaboration as a member of **MVC-5**, a group of full-stack web developers. This portfolio features relevant technologies such as **JavaScript**, HTML, CSS, SQL / NoSQL Databases, **MERN: Mongo, Express, Node, React,** and polished UI interfaces.
 
-- Updated portfolio featuring 6 total projects
+Every featured project presents a brief description, and functional buttons to launch the live application and to see the code repository. The navigation bar features a link to download a copy of my **Resume** and the footer includes links to my main internet handles on Github, LinkedIn, my Design Portfolio and a link to contact me by email. This updated portfolio has been created with **React** and deployed from **Heroku**.
 
-- Use React
+Launch the [**Portfolio here.**](https://jpx-react-portfolio.herokuapp.com/)
 
-- A `Header` component that appears on multiple pages
-
-- A single `Project` component that will be used multiple times on a single page
-
-- Navigation with React Router, dynamic rendering, or another third part router
-
-- A `Footer` component that appears on multiple pages
-
-- Update GitHub profile with pinned repositories featuring those same projects
-
-- Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
-
-## Grading
-
-| Requirement    | Weight |
-| -------------- | ------ |
-| Portfolio      | 90%    |
-| GitHub Profile | 10%    |
-
-## Instructions
-
-- [Updated Portfolio](#updated-portfolio)
-
-- [Design](#design)
-
-- [React](#react)
-
-- [Updated LinkedIn Profile](#updated-linkedin-profile)
-
-### Updated Portfolio
-
-Your updated site should still have all of the content it previously had:
-
-- Your name
-
-- Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-
-- A link to a PDF of your resume with updated projects
-
-- A list of projects. For each project, make sure you have the following:
-
-  - Project title
-
-  - Link to the deployed version
-
-  - Link to the GitHub repository
-
-  - GIF or screenshot of the deployed application
-
-#### Design
-
-As with the previous portfolio homework, "good" design is subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-- Mobile-first design
-
-- Choose a color palette for your site so it doesn't just look like
-  the default bootstrap theme or an unstyled HTML site. You may we
-
-- Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-- If you want to go above and beyond, try using animations and react component libraries. Note
-  that this will _not_ affect your grade, but it may impact how potentials employers gauge your knowledge.
-
-### React
-
-Additionally, this new portfolio should be created using React.
-
-At a minimum, your portfolio should include the following:
-
-- A `Header` component that appears on multiple pages
-
-- A single `Project` component that will be used multiple times on a single page
-
-- Navigation with React Router, dynamic rendering, or another third part router
-
-- A `Footer` component that appears on multiple pages
-
-### Updated LinkedIn Profile
-
-Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
+## User Story
 
 ---
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+- As an Full Stack Web Developer and a member of the dev community,
+- I want to have an application created with the latest technologies to feature a collection of the best projects I have developed so far
+- So that I can also showcase my professional value to both potential employers and clients.
+
+---
+
+## Installation
+
+My **React Portfolio** is deployed online, no special installation is required other than a web browser for mobile or desktop devices. ([**Google Chrome**](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwv7L6BRDxARIsAGj-34pI6kcGFGrZkxQgztLSwZZ7JzwQJFBfDBdgTHCurYEpg3QscMjHhYUaAkkjEALw_wcB&gclsrc=aw.ds) is recommended).
+
+## Features
+
+- A polished and elegant UI interface
+- A navigation bar featuring a link to download a copy of my **Resume**
+- "Hello" page with a brief introductory article
+- A brief description of the featured projects as a member of [**MVC-5**](https://github.com/MVC-5)
+- Brief description of the relevant technologies used on projects
+- A footer featuring links to my Github, LinkedIn, Website, and contact Email
+- React application built using React Router and Components
+- Mobile first responsive application across devices
+
+## Application Preview
+
+![jpx-react-portfolio-01]()
+
+![jpx-react-portfolio-01]()
+
+![jpx-react-portfolio-01]()
+
+## Technology and Framework
+
+**Application:**
+
+- React.js
+- Node.js
+- Bootstrap UI
+- Heroku
+
+**Npm Dependencies:**
+
+- React Dom
+- Bootstrap
+- React Router Dom
+
+## Contributing
+
+![GitHub Badge](https://img.shields.io/badge/Github-JonPhoenix-0298c3)
+
+![Profile Pic](https://github.com/JonPhoenix.png?size=120)
+
+[Application repository](https://github.com/JonPhoenix/jpx-google-books-search)
+
+## Questions
+
+- For further questions, please contact the author at: jonphx@uw.edu
+
+## License
+
+    MIT
+
+---
