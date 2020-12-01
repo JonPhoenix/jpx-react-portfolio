@@ -26,9 +26,9 @@ Launch the [**Portfolio here.**](https://jpx-react-portfolio.herokuapp.com/)
 
 ---
 
-- As an **Full Stack Web Developer** and a member of the dev community,
-- I want to have an application created with the latest technologies to feature a collection of the best projects I have developed so far
-- So that I can also showcase my professional value in a competitive way to both, potential employers and clients.
+As an **Full Stack Web Developer** and a member of the dev community,
+I want to have an application created with the latest technologies to feature a collection of the best projects I have developed so far,
+So that I can also showcase my professional value in a competitive way to both, potential employers and clients.
 
 ---
 
