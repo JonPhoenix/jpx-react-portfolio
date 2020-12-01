@@ -23,6 +23,9 @@ function App() {
             <Route exact path={"/work"}>
               <WorkPage />
             </Route>
+            <Route>
+              <HomePage />
+            </Route>
           </Switch>
           <Footer />
         </Router>
