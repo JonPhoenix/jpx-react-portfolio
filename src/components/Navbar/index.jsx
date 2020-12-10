@@ -26,7 +26,7 @@ function Navbar() {
                 <li className="nav-item">
                   <a
                     className="nav-link link-style"
-                    href="./assets/pdf/Jon-Phoenix-Resume.pdf"
+                    href="./assets/pdf/Jonathan-Martinez-Resume.pdf"
                     download=""
                   >
                     Resume

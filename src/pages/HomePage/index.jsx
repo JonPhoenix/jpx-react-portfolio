@@ -57,9 +57,9 @@ function HomePage() {
               <strong>MVC-5</strong>
             </a>
             , a group of full-stack web developers. This portfolio features{" "}
-            <strong>JavaScript</strong>, HTML, CSS, SQL / NoSQL Databases,{" "}
-            <strong>MERN: Mongo, Express, Node, React</strong>, and polished UI
-            interfaces. See my work{" "}
+            <strong>JavaScript</strong>, HTML, CSS, jQuery, SQL / NoSQL
+            Databases, <strong>MERN: Mongo, Express, Node, React</strong>, and
+            polished UI interfaces. See my work{" "}
             <a className="link-jon" href="/work">
               <strong>HERE.</strong>
             </a>
