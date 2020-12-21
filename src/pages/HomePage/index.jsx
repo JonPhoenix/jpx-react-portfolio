@@ -56,10 +56,12 @@ function HomePage() {
             <a className="link-jon" href="https://github.com/MVC-5">
               <strong>MVC-5</strong>
             </a>
-            , a group of full-stack web developers. This portfolio features{" "}
-            <strong>JavaScript</strong>, HTML, CSS, jQuery, SQL / NoSQL
-            Databases, <strong>MERN: Mongo, Express, Node, React</strong>, and
-            polished UI interfaces. See my work{" "}
+            , a group of full-stack web developers. Technical skills include:{" "}
+            <strong>
+              JavaScript, HTML, CSS, jQuery, SQL / NoSQL Databases, MERN: Mongo,
+              Express, Node, React, and polished UIs.
+            </strong>{" "}
+            See my portfolio{" "}
             <a className="link-jon" href="/work">
               <strong>HERE.</strong>
             </a>
